@@ -1,4 +1,4 @@
-# 穩健的 C 語言 HTTP 伺服器 (Robust C HTTP Server)
+# Robust C HTTP Server
 
 本專案是一個使用 C 語言編寫的並行 (Concurrent) HTTP 1.1 伺服器，專注於實現 Linux 系統程式設計中的健全性 (Robustness) 機制。
 
